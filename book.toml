@@ -1,0 +1,6 @@
+[book]
+authors = ["Hermes Zhang"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Mail Analytics"
